@@ -1,76 +1,45 @@
 # Newregistrationform
  🧗┣┓Love┏♨❤♨┑You┏┥
-  <html>
-<head>
-<title>Form in Table</title>
-</head>
-<body background="img/02.jpg">
-<form>
+  
 
-<h1 align="center"> <font color="white"> mūzāmīl artist Sign Up Page </font> </h1>
 
-<table border="1" width="40%" height="600px" align="center" bgcolor="black">
-<!---row1--->
-<tr align="center" bgcolor="yellow">
-<th colspan="2"><font size="10">Sign up </font></th>
-</tr>
+<table border="1" width="40%" height="600px" align="center" bgcolor="red">
 
-<!---row2--->
-<tr>
-<th><font color="yellow">
-<label>Name</label></th>
-<th><input type="text"></th>
-</tr>
 
-<!---row3--->
-<tr>
-<th><font color="yellow"><label>Age</label></th>
-<th><input type="date"></th>
-</tr>
+<font color="yellow">
+<label>Name</label>
+<input type="text">
 
-<!---row4--->
-<tr >
-<th><font color="yellow">
-<label>Mobile No.</label></th>
-<th><input type="number"></th>
-</tr>
 
-<!---row5--->
-<tr >
-<th><font color="yellow">
-<label>Email</label></th>
-<th><input type="email"></th>
-</tr>
+<font color="yellow"><label>Age</label>
+<input type="date">
 
-<!---row6--->
-<tr >
-<th><font color="yellow">
-<label>Gender</label></th>
-<th><font color="yellow">
+<font color="yellow">
+<label>Mobile No.</label>
+<th><input type="number">
+
+<font color="yellow">
+<label>Email</label>
+<input type="email">
+
+<font color="yellow">
+<label>Gender</label>
+<font color="yellow">
 <input type="radio" name="gender">Male 
 <input type="radio" name="gender">Female
-</th>
-</tr>
-
-<!---row7--->
-<tr >
-<th><font color="yellow">
-<label>Country</label></th>
-<th>
+<font color="yellow">
+<label>Country</label>
 <select name="city">
 <option value="India">India</option>
 <option value="South Africa">South Africa</option>
 <option value="America">America</option>
 <option value="Japan">Japan</option>
-</th>
-</tr>
 
 <!---row8--->
-<tr align="center" bgcolor="yellow">
-<th colspan="2"><input type="Submit">
+align="center" bgcolor="yellow">
+ colspan="2"><input type="Submit">
 <input type="reset">
-</th>
-</tr>
+
 
 </table>
 </form>
