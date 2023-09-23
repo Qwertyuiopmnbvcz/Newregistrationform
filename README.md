@@ -7,7 +7,7 @@
 <body background="img/02.jpg">
 <form>
 
-<h1 align="center"> <font color="white"> Techno Brainz Sign Up Page </font> </h1>
+<h1 align="center"> <font color="white"> mūzāmīl artist Sign Up Page </font> </h1>
 
 <table border="1" width="40%" height="600px" align="center" bgcolor="black">
 <!---row1--->
